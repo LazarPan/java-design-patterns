@@ -1,4 +1,4 @@
-package com.designpatterns.demo.creative.factorypattern;
+package com.designpatterns.demo.creative.factory;
 
 import org.springframework.util.Assert;
 

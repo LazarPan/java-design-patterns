@@ -1,4 +1,4 @@
-package com.designpatterns.demo.creative.abstractfactorypattern;
+package com.designpatterns.demo.creative.abstractfactory;
 
 /**
  * @author jorgenPan
